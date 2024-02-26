@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/nathan-rodrigues-65b906178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 
-## Tecnologias que eu uso no meu dia
+## Technologies that i use on a daily basis
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,6 +33,5 @@
   
 </div><br/>
 
-Apaixonado por tecnologia e educação.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
