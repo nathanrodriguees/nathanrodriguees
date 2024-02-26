@@ -3,10 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nathan+Rodrigues+;I'm+23+years+old;I´m+from+Brasil,+SP;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucca Hiratsuca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanrodriguees&&theme=tokyonight" alt="nathanrodriguees" />
-</div>
+
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Nathan Rodrigues github stats" /> 
+
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
+
+  <br>
+
+  <br>
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nathanrodriguees&theme=vue-dark&hide_border=true&card_width=500&background=0D1117&fire=EB5454&stroke=228B22&currStreakNum=90EE90&sideNums=90EE90&ring=228B22&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
