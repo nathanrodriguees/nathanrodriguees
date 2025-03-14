@@ -4,9 +4,9 @@
 
 <div align="center">  
 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Nathan Rodrigues github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=006F88&icon_color=006F88&text_color=c9d1d9&bg_color=0d1117" alt="Nathan Rodrigues github stats" /> 
 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=006F88&text_color=FFF&bg_color=0d1117" />
 
   <br>
 
@@ -34,4 +34,4 @@
 </div><br/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006F88&height=120&section=footer"/>
