@@ -7,30 +7,9 @@
 
 🎯 Sou **Desenvolvedor Java** em formação, com foco em **Backend** e especializado em **Spring Boot** e **Microservices**. Tenho uma sólida base em **AWS**, **Maven** e **CI/CD**. Sou formado em **Técnico em Desenvolvimento de Sistemas** pelo **SENAI**.
 
-💡 **Principais habilidades**:  
-✔ Desenvolvimento de backend com **Java** e **Spring Boot**  
-✔ Criação de **Microservices** e **APIs REST**  
-✔ Gerenciamento de dependências com **Maven**  
-✔ Experiência com bancos de dados **SQL** (PostgreSQL, MySQL) e **NoSQL** (MongoDB)  
-✔ **Versionamento de código** com **Git** e **GitHub**  
-✔ **Cloud Computing**: **AWS** e **Render**  
-✔ Metodologias ágeis: **Scrum** e **Kanban**  
-✔ Experiência com **CI/CD**, incluindo **GitHub Actions** para automação de builds e deploys  
-
 🎯 Meu objetivo é consolidar minha carreira como **Desenvolvedor Java**, aplicando e aprimorando meus conhecimentos em **Spring Boot** e **Microservices** em projetos inovadores. Durante minha formação no **SENAI**, tive a oportunidade de trabalhar com essas tecnologias e continuo evoluindo para atuar profissionalmente.
 
 ✨ Estou sempre em busca de novos desafios e oportunidades para crescer e contribuir com soluções tecnológicas de impacto!
-
----
-### 📊 Estatísticas do GitHub 
-
-<p align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=66D9EF&icon_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
-
-  <a href="https://github.com/KelvenFontes" style="text-decoration: none;">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
-  </a>
-</p>
 
 ---
 ### 🚀 Tecnologias & Ferramentas  
@@ -64,7 +43,17 @@
 </p> 
 
 ---
+### 📊 Estatísticas do GitHub 
 
+<p align="center">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=66D9EF&icon_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
+
+  <a href="https://github.com/KelvenFontes" style="text-decoration: none;">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
+  </a>
+</p>
+
+---
 ### 📞 Contato  
 
 <p align="center"><strong>💬 Fale comigo!</strong><br>📩 Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:</p>
