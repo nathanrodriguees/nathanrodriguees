@@ -48,7 +48,7 @@
 <p align="center">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nathanrodriguees&show_icons=true&count_private=true&hide_border=true&title_color=66D9EF&icon_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
 
-  <a href="https://github.com/KelvenFontes" style="text-decoration: none;">
+  <a href="https://github.com/nathanrodriguees" style="text-decoration: none;">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrodriguees&layout=compact&hide_border=true&title_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
   </a>
 </p>
